@@ -49,13 +49,13 @@ INDEX VERSION 1.134+C:\desenv\estudos\santander-dev-week-2023\.metadata\.plugins
 3121280960.index
 3162081937.index
 2303245497.index
-2243534493.index
 983973603.index
+2243534493.index
 3109124186.index
 3974923637.index
-812917609.index
-1700776041.index
 1915760207.index
+1700776041.index
+812917609.index
 1751223584.index
 1951880487.index
 3381569511.index
