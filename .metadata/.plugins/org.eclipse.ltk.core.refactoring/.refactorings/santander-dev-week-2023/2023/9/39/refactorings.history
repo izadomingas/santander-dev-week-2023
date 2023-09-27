@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;santander-dev-week-2023/src/main/java/me/dio/SantanderDevWeek2023Application.java&apos; to &apos;Application.java&apos;" description="Rename resource &apos;SantanderDevWeek2023Application.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/me/dio/SantanderDevWeek2023Application.java" name="Application.java" stamp="1695822881874" updateReferences="true"/>
+</session>
